@@ -55,3 +55,57 @@ __Cursos:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <br />
+
+---
+### 📺 Mis aplicaciones
+
+[<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
+**Formulae Calculo** *(Gratis)*
+<br />
+<br />
+[<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
+**Calculadora de Fisica** *(Gratis)*
+<br />
+<br />
+[<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
+**Formulae Calculo Pro** *(De Pago)*
+<br />
+<br />
+
+## 🔎 Mis estadisticas:
+<details>
+    <summary>🔎 Ver</summary>
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
+
+<br />
+
+</details>
+
+## 📺 Últimos vídeos de YouTube
+<details>
+    <summary>📺 Ver</summary>
+    
+<!-- YOUTUBE:START -->
+- [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
+- [Duós con Suscriptor de 8 años](https://www.youtube.com/watch?v=dDzSPNym1Go)
+- [Haciendo merge entre ramas en Git / @CHOCHY](https://www.youtube.com/watch?v=Nh7_qzfCgoM)
+- [Duós con Xbaby_bratzx](https://www.youtube.com/watch?v=qBO_udNhEso)
+- [Que son las ramas y como funcionan en Git / @CHOCHY](https://www.youtube.com/watch?v=0RxbgT-szXc)
+<!-- YOUTUBE:END -->
+    
+</details>
+
+## ❗️ Actividad Reciente
+<details>
+    <summary>❗️ Ver</summary>
+    
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#10](https://github.com/ValeMerch/Git_GitHub/issues/10) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
+2. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
+3. ❗️ Opened issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
+4. ❗️ Opened issue [#12](https://github.com/chochy2001/Git_GitHub/issues/12) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
+5. ❗️ Closed issue [#11](https://github.com/chochy2001/Git_GitHub/issues/11) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
+<!--END_SECTION:activity-->
