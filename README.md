@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Jesus Ceballos 👋
 
-## Ingeniero Electronico
+## Soy Ingeniero Electronico apasionado por la tecnologia 
 
 
